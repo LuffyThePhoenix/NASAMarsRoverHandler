@@ -1,0 +1,6 @@
+C:\Users\LuffythePhoenix\source\repos\NASAMarsRoverHandler\NASAMarsRoverHandler\bin\Debug\NASAMarsRoverHandler.exe.config
+C:\Users\LuffythePhoenix\source\repos\NASAMarsRoverHandler\NASAMarsRoverHandler\bin\Debug\NASAMarsRoverHandler.exe
+C:\Users\LuffythePhoenix\source\repos\NASAMarsRoverHandler\NASAMarsRoverHandler\bin\Debug\NASAMarsRoverHandler.pdb
+C:\Users\LuffythePhoenix\source\repos\NASAMarsRoverHandler\NASAMarsRoverHandler\obj\Debug\NASAMarsRoverHandler.csprojAssemblyReference.cache
+C:\Users\LuffythePhoenix\source\repos\NASAMarsRoverHandler\NASAMarsRoverHandler\obj\Debug\NASAMarsRoverHandler.exe
+C:\Users\LuffythePhoenix\source\repos\NASAMarsRoverHandler\NASAMarsRoverHandler\obj\Debug\NASAMarsRoverHandler.pdb
